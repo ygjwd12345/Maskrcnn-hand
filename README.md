@@ -10,7 +10,7 @@ From the Releases page page:<br><br>
 ## **Run Jupyter notebooks**  
 Open the `inspect_hand_data.ipynb` or `inspect_hand_model.ipynb` Jupter notebooks. 
 You can use these notebooks to explore the dataset and run through the detection pipelie step by step.
-## **Train the Balloon model**  
+## **Train the Hand model**  
 Train a new model starting from pre-trained COCO weights<br><br>
 `python3 hand.py train --dataset=/path/to/hand/dataset --weights=coco`<br><br>
 Resume training a model that you had trained earlier<br><br>
