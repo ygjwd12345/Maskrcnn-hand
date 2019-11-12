@@ -19,5 +19,6 @@ Train a new model starting from ImageNet weights<br><br>
 `python3 hand.py train --dataset=/path/to/hand/dataset --weights=imagenet`<br><br>
 The code in `hand.py` is set to train for 3K steps (30 epochs of 100 steps each), 
 and using a batch size of 2. Update the schedule to fit your needs.
-
+## ** videos**
+[video](https://youtu.be/5Q24BRIz64Q)
 
